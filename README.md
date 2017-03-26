@@ -1,12 +1,12 @@
 # TensorFlow 1.0.1 pip package for macOS 10.12.3  
 
 Hardware platform: _Mac mini (Mid 2011)_   ___no OpenCL support___  
--         _Model Identifier: Macmini5,1_  
--         _Processor Name: Intel Core i5_  
--         _Processor Speed:  2.3 GHz_  
--         _Number of Processors: 1_  
--         _Total Number of Cores: 2_  
--         _Memory: 8 GB_  
+- _Model Identifier: Macmini5,1_  
+- _Processor Name: Intel Core i5_  
+- _Processor Speed:  2.3 GHz_  
+- _Number of Processors: 1_  
+- _Total Number of Cores: 2_  
+- _Memory: 8 GB_  
 
 Software platform: _macOS Sierra version 10.12.3_  
 Python version: _3.6_  
